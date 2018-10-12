@@ -5,7 +5,7 @@
 ###########################################################################
 
 
-dynamic = 10
+dynamic = 20
 print("This is the first project\n"*10)
 
 def classLess():
