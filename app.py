@@ -27,4 +27,4 @@ class Call:
         def c():
                 print('Im C of 67 keybord value')
 
-print("{0.a:}, {0.b}, {0.c}".format(Call))
+#print("{0.a:}, {0.b}, {0.c}".format(Call))
