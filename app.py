@@ -1,7 +1,7 @@
 ###########################################################################
-# here is the begining may God help us
-# please do make sure you left an explicit doumentation before commit
-# do not jokes with any scope 
+# here is the begining may God help us                                    #
+# please do make sure you left an explicit doumentation before commit     #
+# do not jokes with any scope                                             #
 ###########################################################################
 
 
@@ -18,3 +18,13 @@ def classLess():
 classLess()
 print()
 print(dynamic)
+
+class Call:
+        def a():
+                print('Im A of 65 keybord value')
+        def b():
+                print('Im B of 66 keybord value')
+        def c():
+                print('Im C of 67 keybord value')
+
+print("{0.a:}, {0.b}, {0.c}".format(Call))
