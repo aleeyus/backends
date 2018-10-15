@@ -20,14 +20,13 @@ print()
 print(dynamic)
 
 class Call:
-        def a():
+        def a(self):
                 print('Im A of 65 keybord value')
-        def b():
+        def b(self):
                 print('Im B of 66 keybord value')
-        def c():
+        def c(self):
                 print('Im C of 67 keybord value')
                 print('Im C of 67 keybord value')
-                Im C of 67 keybord value')
 print('')
 
 #print("{0.a:}, {0.b}, {0.c}".format(Call))
