@@ -28,5 +28,4 @@ class Call:
                 print('Im C of 67 keybord value')
                 print('Im C of 67 keybord value')
 print('')
-
-#print("{0.a:}, {0.b}, {0.c}".format(Call))
+#print("{.a:}, {0.b}, {0.c}".format(Call))
