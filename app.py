@@ -29,3 +29,6 @@ class Call:
                 print('Im C of 67 keybord value')
 print('')
 #print("{.a:}, {0.b}, {0.c}".format(Call))
+
+a = 'Aliyu Lawal'
+print("".join(a.split()))
